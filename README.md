@@ -1,7 +1,7 @@
-# Aad & Ties — 63 jaar getrouwd
+# Aad & Ties · 63 jaar samen
 
-Een cartoonachtig familiealbum op één pagina, met acht illustraties en grappige bijschriften.
+De slag om Ockenburgh: een liefdevol absurd familieverhaal in 18 scènes.
 
-Open `index.html` of serveer deze map met een statische webserver. Geen installatie of build nodig.
+Buildless GitHub Pages site. Grote tekst, optionele grotere letters, lineair verhaal, uitklapbare familie en fotogalerij met native dialog.
 
-Bestaande website: https://aad-en-ties-63-jaar.loyaltuna4.chatgpt.site
+Foto’s zijn met toestemming gepubliceerd; fictieve dialogen en eigenschappen staan als stripfictie gemarkeerd.
