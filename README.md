@@ -1,13 +1,23 @@
 # Aad & Ties · 63 jaar samen
 
-De slag om Ockenburgh: een liefdevol absurd familieverhaal in 37 scènes.
-Buildless GitHub Pages site. Grote tekst, optionele grotere letters, lineair verhaal, uitklapbare familie en fotogalerij met native dialog.
-Foto’s zijn met toestemming gepubliceerd; fictieve dialogen en eigenschappen staan als stripfictie gemarkeerd.
-Ava en Elisa staan herkenbaar tussen de familie in de overzichtsplaten. Scènes op afstand met Wesley, Djordy en Linda. Album: 60 foto’s.
-Marcel en Sophie krijgen samen een eigen scène vanuit Afrika.
-De kinderraad vormt de rode draad van 37 scènes en 83 stripkaders. Een extra culinair hoofdstuk voert via de zelfbenoemde ster, lauw bier, late patat en zoekgeraakte WhatsAppdesserts naar de ijsvrede.
+De slag om Ockenburgh: een liefdevol absurd familieverhaal in 37 scènes,
+84 verschillende getekende stripkaders en zeven hoofdstukken.
 
-Gesprekken staan in spreekballonnen binnen opeenvolgende stripkaders, met boven-naar-beneden leesvolgorde en optioneel extra grote letters.
-De kinderraad vormt de rode draad van 37 scènes en 83 stripkaders. Een extra culinair hoofdstuk voert via de zelfbenoemde ster, lauw bier, late patat en zoekgeraakte WhatsAppdesserts naar de ijsvrede.
+De roltongeneditie bevat voor ieder kader een afzonderlijk getekend moment.
+Een tekening wordt nergens herhaald met een andere uitsnede. Tekstballonnen
+blijven HTML zodat ze scherp leesbaar zijn, ook met grotere letters.
+Korte gele vertelstroken verbinden de kinderraad, sportclub, bierclub en zijlijnen.
 
-Cadeaus op het parkeerterrein vóór de wandeling: mand van Ava en Bob, twee tassen van Rick en Petra, vazen van Suus en Kwinten en portretsnijplank van Elisa. Nieuwe zijlijnen: suikerzakjeshandel, Danny’s poetsvestiging en Bobs Romeinse kroonkurk.
+De cadeaus worden vóór de wandeling op het parkeerterrein gegeven.
+Wesley en Djordy vissen tijdens de storingsdienst. Linda belt vanaf het festival.
+Marcel telt in Afrika onder een boom zijn geld; de kinderzorgzijlijn is verwijderd.
+Aad en Ties nemen de viering over met hun roltongen, naar de echte foto.
+Die originele foto volgt direct na de getekende ontknoping.
+
+Buildless GitHub Pages site. Op brede schermen twee kaders per rij, op telefoons
+één kader per rij. Grotere letters schakelen altijd naar één kolom.
+Het bestaande familieoverzicht, de 60 foto's en het filmpje blijven beschikbaar.
+De dialogen en superkrachten zijn stripfictie.
+
+De inhoud van de strip staat in `strip-verhaal.json`.
+De nieuwe tekeningen staan in `assets/strip-v3/`.

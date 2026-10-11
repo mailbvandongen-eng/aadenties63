@@ -1,0 +1,1424 @@
+[
+  {
+    "id": 1,
+    "title": "De parkeerplaats wordt een warenhuis",
+    "frames": [
+      {
+        "caption": "De cadeaus gaan vóór de wandeling al uit de achterbakken.",
+        "lines": [
+          {
+            "name": "Ava",
+            "text": "Voor jullie: een grote mand met lekkers."
+          },
+          {
+            "name": "Bob",
+            "text": "Met kaas en toast. Noodrantsoen voor de wandeling."
+          }
+        ],
+        "number": 1,
+        "image": "assets/strip-v3/kader-001.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Rick",
+            "text": "Wij hebben twee tassen."
+          },
+          {
+            "name": "Petra",
+            "text": "Eén met lekkers. En één met vraagtekens."
+          }
+        ],
+        "number": 2,
+        "image": "assets/strip-v3/kader-002.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Ties",
+            "text": "Dat is een hoop voor tien minuten lopen."
+          },
+          {
+            "name": "Bob",
+            "text": "De routebeschrijving is optimistisch."
+          }
+        ],
+        "number": 3,
+        "image": "assets/strip-v3/kader-003.webp"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Vazen en een snijplank met aanzien",
+    "frames": [
+      {
+        "caption": "Vazen, een snijplank… en een heel praktisch portret.",
+        "lines": [
+          {
+            "name": "Suus",
+            "text": "Mooie vazen. Voor mooie bloemen."
+          },
+          {
+            "name": "Kwinten",
+            "text": "Waar zit de wifi-aansluiting?"
+          }
+        ],
+        "number": 4,
+        "image": "assets/strip-v3/kader-004.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Elisa",
+            "text": "En deze snijplank: jullie op jullie mooist."
+          },
+          {
+            "name": "Ties",
+            "text": "Dan snijden we toch niet door onze gezichten?"
+          }
+        ],
+        "number": 5,
+        "image": "assets/strip-v3/kader-005.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Aad",
+            "text": "Leg de kaas maar op mijn broek."
+          }
+        ],
+        "number": 6,
+        "image": "assets/strip-v3/kader-006.webp"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Tien minuten, zei de routebeschrijving.",
+    "frames": [
+      {
+        "caption": "Tien minuten lopen. Volgens iemand die binnen zat.",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "We moeten een tunnel bouwen. Wie pakt dat op?"
+          },
+          {
+            "name": "Cha",
+            "text": "Ik verkoop kaartjes. Twee droge sokken per persoon."
+          }
+        ],
+        "number": 7,
+        "image": "assets/strip-v3/kader-007.webp"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Danny tegen de rest van de planeet",
+    "frames": [
+      {
+        "caption": "Danny ontdekt een ernstig huishoudelijk probleem: de natuur.",
+        "lines": [
+          {
+            "name": "Danny",
+            "text": "Wie is hier verantwoordelijk voor de vloer?"
+          },
+          {
+            "name": "Cha",
+            "text": "De natuur."
+          }
+        ],
+        "number": 8,
+        "image": "assets/strip-v3/kader-008.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Danny",
+            "text": "Dan wil ik de manager spreken."
+          }
+        ],
+        "number": 9,
+        "image": "assets/strip-v3/kader-009.webp"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Technische ondersteuning, acht jaar",
+    "frames": [
+      {
+        "caption": "Technische ondersteuning. Acht jaar. Geen voorrijkosten.",
+        "lines": [
+          {
+            "name": "Joeri",
+            "text": "Als ik hem hack, kan ik de regen misschien uitzetten."
+          },
+          {
+            "name": "Kwinten",
+            "text": "Eerst een back-up maken."
+          }
+        ],
+        "number": 10,
+        "image": "assets/strip-v3/kader-010.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Van de regen?"
+          }
+        ],
+        "number": 11,
+        "image": "assets/strip-v3/kader-011.webp"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Welkom. U mag hier uitdruipen.",
+    "frames": [
+      {
+        "caption": "Binnen ontstaan drie tafels. En minstens vier regeringen.",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Sport, praatdienst, kinderbestuur. Ik blijf boventallig."
+          },
+          {
+            "name": "Danny",
+            "text": "Stop! Er loopt een schoen over mijn schone modder!"
+          }
+        ],
+        "number": 12,
+        "image": "assets/strip-v3/kader-012.webp"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Een handdoek is ook een plan",
+    "frames": [
+      {
+        "caption": "Eerst drogen. Dan pas luchtkastelen bouwen.",
+        "lines": [
+          {
+            "name": "Ava",
+            "text": "Eerst droog. Daarna mag je weer ingewikkeld doen."
+          },
+          {
+            "name": "Elisa",
+            "text": "Bob, houd deze handdoek vast."
+          }
+        ],
+        "number": 13,
+        "image": "assets/strip-v3/kader-013.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Kan ik dat delegeren?"
+          },
+          {
+            "name": "Ava",
+            "text": "Nee. Eindelijk werk op jouw niveau."
+          }
+        ],
+        "number": 14,
+        "image": "assets/strip-v3/kader-014.webp"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": " jaar koninklijk uithoudingsvermogen",
+    "frames": [
+      {
+        "caption": "De hoofdpersonen. Al sinds 1963 een uitstekend team.",
+        "lines": [
+          {
+            "name": "Ties",
+            "text": "Wat gezellig dat iedereen er is!"
+          },
+          {
+            "name": "Aad",
+            "text": "Marcel niet."
+          }
+        ],
+        "number": 15,
+        "image": "assets/strip-v3/kader-015.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Ties",
+            "text": "Die zit onder een palmboom."
+          },
+          {
+            "name": "Aad",
+            "text": "Verstandig. Die hoeft straks niet terug te lopen."
+          }
+        ],
+        "number": 16,
+        "image": "assets/strip-v3/kader-016.webp"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "De kinderministerraad",
+    "frames": [
+      {
+        "caption": "In de tussentijd in de ministerraad…",
+        "lines": [
+          {
+            "name": "Juna",
+            "text": "Vanaf nu luisteren jullie naar ons!"
+          },
+          {
+            "name": "Joeri",
+            "text": "Ik heb de regels al in de wifi gezet."
+          }
+        ],
+        "number": 17,
+        "image": "assets/strip-v3/kader-017.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Mason",
+            "text": "Waar zijn onze ijsjes?"
+          },
+          {
+            "name": "Josie May",
+            "text": "Eerst de vergadering. Dan de ijsjes."
+          }
+        ],
+        "number": 18,
+        "image": "assets/strip-v3/kader-018.webp"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Operatie Suikerzakje",
+    "frames": [
+      {
+        "caption": "De staatsgreep begint bij de suikerzakjes.",
+        "lines": [
+          {
+            "name": "Juna",
+            "text": "Eerst de suiker. Dan de bediening."
+          },
+          {
+            "name": "Joeri",
+            "text": "Voorraad geïnventariseerd!"
+          }
+        ],
+        "number": 19,
+        "image": "assets/strip-v3/kader-019.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Suus",
+            "text": "Is dat een smokkelbende?"
+          },
+          {
+            "name": "Kwinten",
+            "text": "Suikerzakjes. De koffietafel is overvallen."
+          }
+        ],
+        "number": 20,
+        "image": "assets/strip-v3/kader-020.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Mason",
+            "text": "Eén zakje voor een ijsje."
+          },
+          {
+            "name": "Josie May",
+            "text": "We zijn heel slecht in rekenen."
+          }
+        ],
+        "number": 21,
+        "image": "assets/strip-v3/kader-021.webp"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Storingsdienst aan de waterkant",
+    "frames": [
+      {
+        "caption": "Ondertussen bij de visstek: de storingsdienst draait door.",
+        "lines": [
+          {
+            "name": "Djordy",
+            "text": "Papa, statusrapport."
+          },
+          {
+            "name": "Wesley",
+            "text": "Geen storing. Wel een karper."
+          }
+        ],
+        "number": 22,
+        "image": "assets/strip-v3/kader-022.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Djordy",
+            "text": "Prima. Die wil ik eerst spreken."
+          },
+          {
+            "name": "Wesley",
+            "text": "Hij zegt niks."
+          }
+        ],
+        "number": 23,
+        "image": "assets/strip-v3/kader-023.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Djordy",
+            "text": "Eindelijk iemand die een vergadering begrijpt."
+          }
+        ],
+        "number": 24,
+        "image": "assets/strip-v3/kader-024.webp"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "De sportclub geeft geen duimbreed",
+    "frames": [
+      {
+        "caption": "De sportclub verklaart de dartstafel tot onafhankelijk gebied.",
+        "lines": [
+          {
+            "name": "Juna",
+            "text": "Iedereen wisselt van plaats!"
+          },
+          {
+            "name": "Elisa",
+            "text": "Gezellig!"
+          }
+        ],
+        "number": 25,
+        "image": "assets/strip-v3/kader-025.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Petra",
+            "text": "Na deze leg."
+          },
+          {
+            "name": "Floran",
+            "text": "En daarna de volgende."
+          }
+        ],
+        "number": 26,
+        "image": "assets/strip-v3/kader-026.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Louren",
+            "text": "We houden het wel gezellig. Op afstand."
+          }
+        ],
+        "number": 27,
+        "image": "assets/strip-v3/kader-027.webp"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Rick op vijandelijk grondgebied",
+    "frames": [
+      {
+        "caption": "Rick steekt de grens over naar de bierclub.",
+        "lines": [
+          {
+            "name": "Juna",
+            "text": "De kinderraad wil rust!"
+          },
+          {
+            "name": "Rick",
+            "text": "Wat is hier de tussenstand?"
+          }
+        ],
+        "number": 28,
+        "image": "assets/strip-v3/kader-028.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Drie ideeën. Nog niemand die ze uitvoert."
+          },
+          {
+            "name": "Kwinten",
+            "text": "Een productieve avond, dus."
+          }
+        ],
+        "number": 29,
+        "image": "assets/strip-v3/kader-029.webp"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Het luchtkasteel krijgt een steiger",
+    "frames": [
+      {
+        "caption": "Bobs luchtkasteel krijgt alvast een steiger.",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Ik denk groot. Jullie mogen beginnen met bouwen."
+          },
+          {
+            "name": "Rick",
+            "text": "Wanneer help jij?"
+          }
+        ],
+        "number": 30,
+        "image": "assets/strip-v3/kader-030.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Tijdens de opening. Mits het niet bijt."
+          }
+        ],
+        "number": 31,
+        "image": "assets/strip-v3/kader-031.webp"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Linda heeft het luchtkasteel al geboekt",
+    "frames": [
+      {
+        "caption": "Linda heeft haar kasteel lang geleden al geboekt.",
+        "lines": [
+          {
+            "name": "Linda",
+            "text": "Hier zijn ridders, muziek en een kasteel. Bij jullie?"
+          },
+          {
+            "name": "Bob",
+            "text": "Drie tafels. En Danny dweilt de aarde."
+          }
+        ],
+        "number": 32,
+        "image": "assets/strip-v3/kader-032.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Linda",
+            "text": "Jullie festival is vreemder."
+          },
+          {
+            "name": "Elisa",
+            "text": "Bel straks de kinderen. We missen nog een draak."
+          }
+        ],
+        "number": 33,
+        "image": "assets/strip-v3/kader-033.webp"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Danny herschrijft de wereldgeschiedenis",
+    "frames": [
+      {
+        "caption": "Danny vraagt of Bob ooit iets boeddhistisch heeft gevonden.",
+        "lines": [
+          {
+            "name": "Danny",
+            "text": "Dat kan helemaal niet. India heeft Nederland nooit veroverd."
+          },
+          {
+            "name": "Bob",
+            "text": "Ik vond wel een kromme spijker."
+          }
+        ],
+        "number": 34,
+        "image": "assets/strip-v3/kader-034.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Danny",
+            "text": "Zie je. Geen boeddha. Onderzoek afgerond."
+          }
+        ],
+        "number": 35,
+        "image": "assets/strip-v3/kader-035.webp"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Danny opent de poetsvestiging",
+    "frames": [
+      {
+        "caption": "De poetsdienst neemt de hele villa over.",
+        "lines": [
+          {
+            "name": "Danny",
+            "text": "Eerst de vloer. Dan de muren. Dan de buren."
+          },
+          {
+            "name": "Bediening",
+            "text": "Maar we zijn nog open!"
+          }
+        ],
+        "number": 36,
+        "image": "assets/strip-v3/kader-036.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Danny",
+            "text": "Prima. Voeten omhoog, ik kan eronderdoor."
+          },
+          {
+            "name": "Ava",
+            "text": "Straks glimmen we harder dan die kroonluchter."
+          }
+        ],
+        "number": 37,
+        "image": "assets/strip-v3/kader-037.webp"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "De zeekip zendt uit",
+    "frames": [
+      {
+        "caption": "Een papegaai bezorgt Marcels bericht. Met overbagage.",
+        "lines": [
+          {
+            "name": "Suus",
+            "text": "Tok! Niemand weet wat het belangrijkste nieuws is."
+          },
+          {
+            "name": "Papegaai",
+            "text": "HIER IS DROOG!"
+          }
+        ],
+        "number": 38,
+        "image": "assets/strip-v3/kader-038.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Suus",
+            "text": "Wat zit er in die koffers?"
+          },
+          {
+            "name": "Papegaai",
+            "text": "PINDA’S. IK VLIEG NIET ECONOMY."
+          }
+        ],
+        "number": 39,
+        "image": "assets/strip-v3/kader-039.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Financier jij onze tunnel? De bouw delegeren we ook."
+          }
+        ],
+        "number": 40,
+        "image": "assets/strip-v3/kader-040.webp"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Marcel telt door",
+    "frames": [
+      {
+        "caption": "Ondertussen in Afrika: Marcel telt rustig zijn geld.",
+        "lines": [
+          {
+            "name": "Marcel",
+            "text": "Het geld komt uit Nederland. Ik blijf bij de boom."
+          }
+        ],
+        "number": 41,
+        "image": "assets/strip-v3/kader-041.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Doe je mee aan ons tunnelplan?"
+          },
+          {
+            "name": "Marcel",
+            "text": "Ik zit al in de schaduw."
+          }
+        ],
+        "number": 42,
+        "image": "assets/strip-v3/kader-042.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Marcel",
+            "text": "Eén, twee, drie…"
+          },
+          {
+            "name": "Papegaai",
+            "text": "HIER IS DROOG!"
+          }
+        ],
+        "number": 43,
+        "image": "assets/strip-v3/kader-043.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Marcel",
+            "text": "Nu kan ik opnieuw beginnen."
+          }
+        ],
+        "number": 44,
+        "image": "assets/strip-v3/kader-044.webp"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Even bellen met de storingsdienst",
+    "frames": [
+      {
+        "caption": "Elisa belt de storingsdienst. Djordy neemt de leiding.",
+        "lines": [
+          {
+            "name": "Elisa",
+            "text": "Jullie missen een heel gezellig feest."
+          },
+          {
+            "name": "Wesley",
+            "text": "We zijn er in gedachten bij."
+          }
+        ],
+        "number": 45,
+        "image": "assets/strip-v3/kader-045.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Djordy",
+            "text": "Papa is vooral bij een dobber."
+          },
+          {
+            "name": "Ava",
+            "text": "Kun jij Bob ook een taak geven?"
+          }
+        ],
+        "number": 46,
+        "image": "assets/strip-v3/kader-046.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Djordy",
+            "text": "Laat Bob voorlopig niks bedenken. Dat voorkomt vervolgschade."
+          }
+        ],
+        "number": 47,
+        "image": "assets/strip-v3/kader-047.webp"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "De schone slaapster en de rode regisseur",
+    "frames": [
+      {
+        "caption": "De ministerraad verhuist naar een drakenpaleis.",
+        "lines": [
+          {
+            "name": "Juna",
+            "text": "Ik ben de koningin van het vuur!"
+          },
+          {
+            "name": "Rosalie",
+            "text": "Ik ben de draak. Maar ik heb straks wel pauze."
+          }
+        ],
+        "number": 48,
+        "image": "assets/strip-v3/kader-048.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Joeri",
+            "text": "Welke firmware heb jij?"
+          },
+          {
+            "name": "Rosalie",
+            "text": "Ik spuug gewoon. Werkt altijd."
+          }
+        ],
+        "number": 49,
+        "image": "assets/strip-v3/kader-049.webp"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Een ster van eigen makelij",
+    "frames": [
+      {
+        "caption": "De chef heeft zichzelf alvast een ster gegeven.",
+        "lines": [
+          {
+            "name": "Chef",
+            "text": "Welkom in mijn sterrenrestaurant."
+          },
+          {
+            "name": "Rick",
+            "text": "Wie heeft die ster gegeven?"
+          }
+        ],
+        "number": 50,
+        "image": "assets/strip-v3/kader-050.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Chef",
+            "text": "Ik. Dat scheelt enorm in de wachttijd."
+          },
+          {
+            "name": "Bediening",
+            "text": "Moet ik die ster ook indekken?"
+          }
+        ],
+        "number": 51,
+        "image": "assets/strip-v3/kader-051.webp"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Een landschap op je bord",
+    "frames": [
+      {
+        "caption": "Het eten krijgt een langere uitleg dan bereidingstijd.",
+        "lines": [
+          {
+            "name": "Chef",
+            "text": "Een dierlijke compositie op een bed van lokaal landschap."
+          },
+          {
+            "name": "Ties",
+            "text": "Vlees met groenten."
+          }
+        ],
+        "number": 52,
+        "image": "assets/strip-v3/kader-052.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Chef",
+            "text": "Dat klinkt wel erg eenvoudig."
+          },
+          {
+            "name": "Aad",
+            "text": "Dat eet ook makkelijker."
+          }
+        ],
+        "number": 53,
+        "image": "assets/strip-v3/kader-053.webp"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Bob doet alleen even een rondje",
+    "frames": [
+      {
+        "caption": "Bob gaat heel even naar het Romeinse monument.",
+        "lines": [
+          {
+            "name": "Elisa",
+            "text": "Bob, waar ga je heen?"
+          },
+          {
+            "name": "Bob",
+            "text": "Even kijken bij dat Romeinse monument."
+          }
+        ],
+        "number": 54,
+        "image": "assets/strip-v3/kader-054.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Elisa",
+            "text": "Het eten komt zo."
+          },
+          {
+            "name": "Bob",
+            "text": "Die Romeinen wachten al tweeduizend jaar. Ik schiet op."
+          }
+        ],
+        "number": 55,
+        "image": "assets/strip-v3/kader-055.webp"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Het bier heeft geen eigenaar",
+    "frames": [
+      {
+        "caption": "Het bier is lauw. De verantwoordelijkheid is zoek.",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Mijn bier is lauw."
+          },
+          {
+            "name": "Bediening",
+            "text": "Warme dranken: de keuken."
+          }
+        ],
+        "number": 56,
+        "image": "assets/strip-v3/kader-056.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Keuken",
+            "text": "Glazen: de afwas."
+          },
+          {
+            "name": "Afwas",
+            "text": "Ik heb het al doorgestuurd naar de regen."
+          }
+        ],
+        "number": 57,
+        "image": "assets/strip-v3/kader-057.webp"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "De patat komt na de aftiteling",
+    "frames": [
+      {
+        "caption": "De patat verschijnt. Het vlees is inmiddels geschiedenis.",
+        "lines": [
+          {
+            "name": "Bediening",
+            "text": "Uw patat."
+          },
+          {
+            "name": "Aad",
+            "text": "Mijn vlees is al naar huis."
+          }
+        ],
+        "number": 58,
+        "image": "assets/strip-v3/kader-058.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Chef",
+            "text": "Dit is de nasmaak."
+          },
+          {
+            "name": "Juna",
+            "text": "Komt het voorgerecht dan morgen?"
+          }
+        ],
+        "number": 59,
+        "image": "assets/strip-v3/kader-059.webp"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "De Romeinse dopcommissie",
+    "frames": [
+      {
+        "caption": "De kinderraad opent de Romeinse dopcommissie.",
+        "lines": [
+          {
+            "name": "Juna",
+            "text": "Wat heb je gevonden?"
+          },
+          {
+            "name": "Bob",
+            "text": "De sluitsteen van een Romeins drankimperium!"
+          }
+        ],
+        "number": 60,
+        "image": "assets/strip-v3/kader-060.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Danny",
+            "text": "Er staat cola op."
+          },
+          {
+            "name": "Bob",
+            "text": "Ze liepen dus verder op ons vooruit dan gedacht."
+          }
+        ],
+        "number": 61,
+        "image": "assets/strip-v3/kader-061.webp"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Het dessert zit in een groepsapp",
+    "frames": [
+      {
+        "caption": "De dessertbestelling verdwaalt in de groepsapps.",
+        "lines": [
+          {
+            "name": "Bediening",
+            "text": "Wie had wat besteld?"
+          },
+          {
+            "name": "Joeri",
+            "text": "Zoek op ‘ijs’."
+          }
+        ],
+        "number": 62,
+        "image": "assets/strip-v3/kader-062.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Bediening",
+            "text": "Ik vind alleen een ijsbeerfoto uit 2022."
+          },
+          {
+            "name": "Bob",
+            "text": "Kan die met slagroom?"
+          }
+        ],
+        "number": 63,
+        "image": "assets/strip-v3/kader-063.webp"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "De ijsvrede",
+    "frames": [
+      {
+        "caption": "Een staatscrisis. Met spikkels.",
+        "lines": [
+          {
+            "name": "Juna",
+            "text": "Niemand luistert. Ik ontbind het restaurant!"
+          },
+          {
+            "name": "Bediening",
+            "text": "Wie wil er ijs?"
+          }
+        ],
+        "number": 64,
+        "image": "assets/strip-v3/kader-064.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Mason",
+            "text": "De crisis is voorlopig opgeschort."
+          },
+          {
+            "name": "Josie May",
+            "text": "Met spikkels. Anders komt er een onderzoek."
+          }
+        ],
+        "number": 65,
+        "image": "assets/strip-v3/kader-065.webp"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Het drakenrijk luistert tenminste",
+    "frames": [
+      {
+        "caption": "Het drakenrijk luistert. Meestal.",
+        "lines": [
+          {
+            "name": "Josie May",
+            "text": "Wij besturen vanaf nu alleen het drakenrijk."
+          },
+          {
+            "name": "Mason",
+            "text": "U mag wel blijven zitten."
+          }
+        ],
+        "number": 66,
+        "image": "assets/strip-v3/kader-066.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Cha",
+            "text": "Ik regel de exploitatie."
+          },
+          {
+            "name": "Danny",
+            "text": "Wie doet de eindschoonmaak?"
+          }
+        ],
+        "number": 67,
+        "image": "assets/strip-v3/kader-067.webp"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Een draak op bestelling",
+    "frames": [
+      {
+        "caption": "Linda levert op afstand een draak.",
+        "lines": [
+          {
+            "name": "Linda",
+            "text": "Ieder goed kasteel heeft een draak."
+          },
+          {
+            "name": "Rosalie",
+            "text": "Kan die ook liggend werken?"
+          }
+        ],
+        "number": 68,
+        "image": "assets/strip-v3/kader-068.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Juna",
+            "text": "Jij bent de vloerverwarming."
+          },
+          {
+            "name": "Ava",
+            "text": "Deze vlag gaat straks op zestig graden."
+          }
+        ],
+        "number": 69,
+        "image": "assets/strip-v3/kader-069.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Elisa",
+            "text": "Wesley, niet ophangen. Rosalie is nu een verwarmingsinstallatie."
+          }
+        ],
+        "number": 70,
+        "image": "assets/strip-v3/kader-070.webp"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "De Zilverrug bevoorraadt het front",
+    "frames": [
+      {
+        "caption": "De Zilverrug bevoorraadt het front.",
+        "lines": [
+          {
+            "name": "Kwinten",
+            "text": "Ik heb nog wat gehaald."
+          },
+          {
+            "name": "Rick",
+            "text": "Voor wie?"
+          }
+        ],
+        "number": 71,
+        "image": "assets/strip-v3/kader-071.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Kwinten",
+            "text": "De mannen."
+          },
+          {
+            "name": "Bob",
+            "text": "En de overige inwoners van Zuid-Holland?"
+          }
+        ],
+        "number": 72,
+        "image": "assets/strip-v3/kader-072.webp"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "De roltongen nemen de macht over",
+    "frames": [
+      {
+        "caption": "Dan nemen Aad en Ties het feest zelf over.",
+        "lines": [
+          {
+            "name": "Ties",
+            "text": "We hebben toch een leuke familie."
+          },
+          {
+            "name": "Aad",
+            "text": "Zullen wij het feest even overnemen?"
+          }
+        ],
+        "number": 73,
+        "image": "assets/strip-v3/kader-073.webp"
+      },
+      {
+        "caption": "63 jaar getrouwd. Tijd voor officieel trompetgeschal.",
+        "lines": [
+          {
+            "name": "Ties",
+            "text": "Klaar voor de grote finale?"
+          },
+          {
+            "name": "Aad",
+            "text": "Na 63 jaar oefenen: ja!"
+          }
+        ],
+        "number": 74,
+        "image": "assets/strip-v3/kader-074.webp"
+      },
+      {
+        "caption": "De enige staatsgreep waar álle tafels voor applaudisseren.",
+        "lines": [
+          {
+            "name": "Juna",
+            "text": "De koningin en koning hebben gesproken!"
+          },
+          {
+            "name": "Bob",
+            "text": "Unaniem aangenomen. Nog een rondje!"
+          }
+        ],
+        "number": 75,
+        "image": "assets/strip-v3/kader-075.webp"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Storing: de familie moet naar buiten",
+    "frames": [
+      {
+        "caption": "Een nieuwe storing: de paraplu staat binnenstebuiten.",
+        "lines": [
+          {
+            "name": "Elisa",
+            "text": "We hebben een paraplu met de binnenkant buiten."
+          },
+          {
+            "name": "Djordy",
+            "text": "Al geprobeerd hem uit en aan te zetten?"
+          }
+        ],
+        "number": 76,
+        "image": "assets/strip-v3/kader-076.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Ava",
+            "text": "Hij is al drie keer opnieuw opgestegen."
+          },
+          {
+            "name": "Wesley",
+            "text": "Als het pad overstroomt, kunnen we er vissen."
+          }
+        ],
+        "number": 77,
+        "image": "assets/strip-v3/kader-077.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Djordy",
+            "text": "Papa. Eerst de familie naar de auto. Daarna de karpers parkeren."
+          }
+        ],
+        "number": 78,
+        "image": "assets/strip-v3/kader-078.webp"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Operatie Waar Staat De Auto",
+    "frames": [
+      {
+        "caption": "De terugweg blijkt óók tien minuten te duren.",
+        "lines": [
+          {
+            "name": "Rick",
+            "text": "Ik wist niet dat die tien minuten een retourticket hadden."
+          },
+          {
+            "name": "Danny",
+            "text": "Pas op! Een plas!"
+          }
+        ],
+        "number": 79,
+        "image": "assets/strip-v3/kader-079.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Suus",
+            "text": "Danny, we lopen inmiddels dóór het weerbericht."
+          }
+        ],
+        "number": 80,
+        "image": "assets/strip-v3/kader-080.webp"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Afscheid, deel één tot en met zeventien",
+    "frames": [
+      {
+        "caption": "Afscheid. Deel één tot en met zeventien.",
+        "lines": [
+          {
+            "name": "Rick",
+            "text": "We gaan nu echt."
+          },
+          {
+            "name": "Ties",
+            "text": "Ja hoor. Dag lieverd!"
+          }
+        ],
+        "number": 81,
+        "image": "assets/strip-v3/kader-081.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Cha",
+            "text": "Wacht, nog één foto!"
+          },
+          {
+            "name": "Danny",
+            "text": "Niet op de modder staan!"
+          }
+        ],
+        "number": 82,
+        "image": "assets/strip-v3/kader-082.webp"
+      },
+      {
+        "caption": "",
+        "lines": [
+          {
+            "name": "Bob",
+            "text": "Danny. Dit is een landgoed."
+          }
+        ],
+        "number": 83,
+        "image": "assets/strip-v3/kader-083.webp"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Hand in hand. Nog steeds.",
+    "frames": [
+      {
+        "caption": "63 jaar samen. En nog steeds hand in hand.",
+        "lines": [
+          {
+            "name": "Ties",
+            "text": "Volgend jaar weer?"
+          },
+          {
+            "name": "Aad",
+            "text": "Ja. Maar dan parkeren we in de woonkamer."
+          }
+        ],
+        "number": 84,
+        "image": "assets/strip-v3/kader-084.webp"
+      }
+    ]
+  }
+]
