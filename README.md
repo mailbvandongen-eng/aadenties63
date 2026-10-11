@@ -6,5 +6,5 @@ Buildless GitHub Pages site. Grote tekst, optionele grotere letters, lineair ver
 
 Foto’s zijn met toestemming gepubliceerd; fictieve dialogen en eigenschappen staan als stripfictie gemarkeerd.
 
-Uitgebreid met actieve rollen voor Ava en Elisa, en scènes op afstand met Wesley, Djordy en Linda. Album: 60 foto’s.
+Ava en Elisa staan herkenbaar tussen de familie in de overzichtsplaten. Scènes op afstand met Wesley, Djordy en Linda. Album: 60 foto’s.
 Marcel en Sophie krijgen samen een eigen scène vanuit Afrika.
